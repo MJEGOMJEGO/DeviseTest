@@ -1,0 +1,13 @@
+<h1>Tous les meubles!</h1>
+<%= link_to 'histoire de primse', meubles_path, class: "btn btn-primary"%>
+<div class="container">
+  <div class="row" >
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <% @meubles.each do |meuble|%>
+      <%= link_to meuble_path(meuble), :action => 'go' do %>
+      <%= meuble.description %>
+      <% end %>
+      <% end  %>
+    </div>
+  </div>
+</div>
