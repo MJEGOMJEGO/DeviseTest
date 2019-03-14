@@ -1,0 +1,27 @@
+.art-avatar {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.art-card {
+  border: 1px solid black;
+  display: flex;
+  margin: 40px;
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.art-img-and-text {
+  text-align: center;
+  padding: 5px;
+}
+.art-text{
+  display: flex;
+  flex-direction: column;
+    span {
+      font-weight: bolder;
+    }
+}

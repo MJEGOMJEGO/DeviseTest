@@ -1,0 +1,63 @@
+=> [[32m#<Artisan:0x000056555adbc1e8[0m
+  id: [1;34m3[0m,
+  name: [31m[1;31m"[0m[31mDave[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mTexas[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555bdd6678>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Artisan:0x000056555ada6910[0m
+  id: [1;34m4[0m,
+  name: [31m[1;31m"[0m[31mDino[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mMexico[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555a5d7400>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Artisan:0x000056555ada67d0[0m
+  id: [1;34m5[0m,
+  name: [31m[1;31m"[0m[31mGeorges[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mPom Pom Galli[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555bdf2aa8>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Artisan:0x000056555ada6690[0m
+  id: [1;34m6[0m,
+  name: [31m[1;31m"[0m[31mJoel[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mSouth America[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555bdf89d0>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Artisan:0x000056555ada6550[0m
+  id: [1;34m7[0m,
+  name: [31m[1;31m"[0m[31mPeter[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mChez Mme Felipe[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555be0fea0>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Artisan:0x000056555ada6410[0m
+  id: [1;34m8[0m,
+  name: [31m[1;31m"[0m[31mSteven[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mTegsass[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555be15828>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Artisan:0x000056555ada6258[0m
+  id: [1;34m9[0m,
+  name: [31m[1;31m"[0m[31mJacques[1;31m"[0m[31m[0m,
+  adress: [31m[1;31m"[0m[31mChez les Pédés[1;31m"[0m[31m[0m,
+  photo: [31m[1;31m"[0m[31m#<File:0x000056555a56d870>[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. [1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m14[0m [1;34;4mMar[0m [1;34m2019[0m [1;34m13[0m:[1;34m13[0m:[1;34m04[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]

@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="row" >
+      <% @artisans.each do |artisan|%>
+      <div class="col-xs-12 col-sm-8 col-md-6">
+      <div class= "art-card">
+      <div class="art-img-and-text">
+      <%= image_tag(artisan.photo, class: "art-avatar") %>
+      <div class="art-text">
+      <span>Nom : </span><%= artisan.name %>
+      <span>Adresse : </span><%= artisan.adress %>
+      <span>Son Histoire : </span><%= artisan.description %>
+      </div>
+      </div>
+      </div>
+      </div>
+      <% end  %>
+  </div>
+</div>
+
