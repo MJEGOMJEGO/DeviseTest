@@ -1,0 +1,51 @@
+.text-rassurage {
+  h1 {
+    font-size: 15px;
+    font-weigth: lighter;
+  }
+  margin-top: 20px;
+}
+
+.icon-rassurage {
+  width: 80px;
+  height: 80px;
+  opacity: 0.5;
+}
+.cartes-rassurage {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  margin-left: 25px;
+  margin: 10px;
+}
+.cartes-rassurage-container {
+  display: flex;
+  justify-content: center;
+}
+.informations-legales-div {
+  background-color: black;
+  color: white;
+  width: 100%;
+  text-align: left;
+    h1{
+      font-size: 15px;
+      font-weight: bolder;
+    }
+    li {
+      font-size: 11px;
+    }
+    p {
+      font-size: 11px;
+    }
+    i {
+      color: white;
+      padding: 20px;
+    }
+}
+.black-card {
+  display: flex;
+  justify-content: center;
+}
+.black-text {
+  width: 200px;
+}
